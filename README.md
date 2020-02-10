@@ -1,10 +1,10 @@
 # MedEvo
 
-The Med Evo app is an application being developed in C # with the use of a neural network and the use of GeneticSharp~.
+The MED Evo app is an application being developed in C # with the use of a neural network and the use of GeneticSharp.
 
-This project is opensource and based on code already developed, the idea is to apply the idea of  natural selection, mutation and crossover with the compounds being used to cancer threatment and study their interactions with an algotithm that simulates cancer cell growing. 
+This project is open source and based on code already developed, the idea is to apply natural selection, mutation and crossover with the compounds being used for cancer treatment and study their interactions with an algorithm that simulates cancer cell growing. 
 
-This is the very first instance  of development and not yet functional. Since i'm not a doctor and most of my studies are based on my own researc, I ask any developer, doctor or any person interested in this project to share their own ideas, insight and also to clone and modify this project with focus on it's purpose. 
+This is the very first instance of development and not yet functional. Since I'm not a doctor and most of my studies are based on my own research, I ask any developer, doctor or any person interested in this project to share their own ideas, insight and also to clone and modify this project with focus on its purpose.
 
 If you wish to participate we invite you to join our TEAMS group MedEvo.
 
