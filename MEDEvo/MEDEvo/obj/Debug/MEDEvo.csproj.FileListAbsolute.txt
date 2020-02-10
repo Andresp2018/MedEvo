@@ -1,0 +1,9 @@
+C:\Users\Andre\source\repos\MEDEvo\MEDEvo\bin\Debug\MEDEvo.exe.config
+C:\Users\Andre\source\repos\MEDEvo\MEDEvo\bin\Debug\MEDEvo.exe
+C:\Users\Andre\source\repos\MEDEvo\MEDEvo\bin\Debug\MEDEvo.pdb
+C:\Users\Andre\source\repos\MEDEvo\MEDEvo\obj\Debug\MEDEvo.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\MEDEvo\MEDEvo\obj\Debug\MEDEvo.Properties.Resources.resources
+C:\Users\Andre\source\repos\MEDEvo\MEDEvo\obj\Debug\MEDEvo.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\MEDEvo\MEDEvo\obj\Debug\MEDEvo.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\MEDEvo\MEDEvo\obj\Debug\MEDEvo.exe
+C:\Users\Andre\source\repos\MEDEvo\MEDEvo\obj\Debug\MEDEvo.pdb
